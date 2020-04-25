@@ -48,7 +48,7 @@ function main() {
         var degreeGroup = dialog.add('group');
         degreeGroup.orientation = "row";
 
-        var lineAngleLabel = degreeGroup.add ("statictext", undefined, 'Line angle(degree):');
+        var lineAngleLabel = degreeGroup.add ("statictext", undefined, 'Line angle (degree):');
         lineAngleLabel.size = [125, 20];
         
         var lineAngleText = degreeGroup.add ("edittext", undefined, lineAngleDefault, { readonly: false });
