@@ -1,7 +1,8 @@
 # Hatch fill plugin for illustrator
 
-![Hatch fill plugin preview](hatch-fill-plugin.png?raw=true)
 Transform the fill of all paths in configurable lines.
+
+![Hatch fill plugin preview](hatch-fill-plugin.png?raw=true)
 
 ## Installation
 
